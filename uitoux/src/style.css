@@ -1,0 +1,46 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    background: #f9f8f8;
+  }
+  
+  html,
+  body {
+    height: 100%;
+  }
+  h4,
+  h5,
+  h3 {
+    font-size: 15px !important;
+  }
+  body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+  }
+  .mat-badge-content {
+    display: inline-block;
+    background: #00ffca !important;
+    color: #fff !important;
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+  .mdc-tab {
+    min-width: 52px !important;
+    padding-right: 6px !important;
+    padding-left: 8px !important;
+    display: flex !important;
+    flex: 1 0 auto !important;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    border: none;
+    outline: none;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    -webkit-appearance: none;
+    z-index: 1;
+  }
+  
